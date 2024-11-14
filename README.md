@@ -1,4 +1,4 @@
-### Zodiac Sign Lookup Application - Aplicação de Consulta de Signo
+# Zodiac Sign Lookup Application - Aplicação de Consulta de Signo
 
 **EN** - This project was developed as part of the evaluation criteria for the Web Programming course at Anhanguera University.
 
@@ -37,7 +37,7 @@ To set up and run the project, follow the steps below:
 
 I hope this application assists with learning PHP and XML handling in web applications. Feel free to contribute!
 
-
+///////////////////----\\\\\\\\\\\\\\\\\\\
 
 **PT** - Este projeto foi desenvolvido como parte do critério de avaliação da disciplina de Programação Web na Faculdade Anhanguera.
 
