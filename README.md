@@ -1,6 +1,45 @@
-# Aplicação de Consulta de Signo
+### Zodiac Sign Lookup Application - Aplicação de Consulta de Signo
 
-Este projeto foi desenvolvido como parte do critério de avaliação da disciplina de Programação Web na Faculdade Anhanguera.
+**EN** - This project was developed as part of the evaluation criteria for the Web Programming course at Anhanguera University.
+
+## Purpose
+
+The goal is to create a PHP application that retrieves a user's zodiac sign based on their birth date. Zodiac sign data is stored in an XML file, which the application accesses to determine the user's sign.
+
+## Project Structure
+
+To set up and run the project, follow the steps below:
+
+1. **Environment Installation**: Install the XAMPP Control Panel and locate the directory where it was installed.
+2. **Directory Setup**: Create a folder named `Project` inside the `xampp\htdocs\` directory.
+3. **Development**:
+   - Open the project in Visual Studio Code to create the project structure.
+   - Manually populate an XML file with information about all zodiac signs.
+   - Build a basic HTML structure, including a POST form in `index.php`.
+4. **Query Structure and Logic**:
+   - Create `header.php` for the header structure and other necessary sections.
+   - Develop `show_zodiac_sign.php`, implementing the logic to query the XML file and retrieve the user's zodiac sign.
+5. **Styling and User Experience**:
+   - Use Bootstrap and other styling techniques to create a visually appealing and intuitive user experience.
+
+## Requirements
+
+- **XAMPP** to serve the project locally.
+- **Visual Studio Code** for development.
+
+## How to Run the Project
+
+1. Clone or download the repository to the `xampp\htdocs\Project` directory.
+2. Start XAMPP and enable the Apache server.
+3. Open your browser and go to `http://localhost/Project`.
+
+---
+
+I hope this application assists with learning PHP and XML handling in web applications. Feel free to contribute!
+
+
+
+**PT** - Este projeto foi desenvolvido como parte do critério de avaliação da disciplina de Programação Web na Faculdade Anhanguera.
 
 ## Objetivo
 
